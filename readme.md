@@ -3,7 +3,7 @@
 A real-time cryptocurrency tracking and portfolio management dashboard built with Next.js 15, TypeScript, and Tailwind CSS.
 
 ## Live Demo
-_Coming soon_
+https://crypto-tracker-gilt-six.vercel.app/
 
 ## Screenshots
 _Coming soon_
